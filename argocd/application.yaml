@@ -6,7 +6,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/TEU-USUARIO/gitops-project
+    repoURL: https://github.com/12brandao/gitops-project
     targetRevision: HEAD
     path: app
 
